@@ -1,6 +1,6 @@
 # Neural-Networks-Zero-to-Hero
 
-Solutions to assignments proposed by Andrej Karpathy. 
+Solutions to exercises proposed in [Neural Networks: Zero to Hero (Andrej Karpathy)](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ).
 
 ## Contenent:
 
