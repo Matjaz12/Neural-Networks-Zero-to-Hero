@@ -7,6 +7,7 @@ Solutions to exercises proposed in [Neural Networks: Zero to Hero (Andrej Karpat
 1. [Micrograd exercises](https://github.com/Matjaz12/Neural-Networks-Zero-to-Hero/blob/main/micrograd.ipynb)
 2. [Trigram language model](https://github.com/Matjaz12/Neural-Networks-Zero-to-Hero/blob/main/trigram_language_model.ipynb)
 3. [Multilayer perceptron language model](https://github.com/Matjaz12/Neural-Networks-Zero-to-Hero/blob/main/mlp_exercises.ipynb)
+4. [Exploring activations, gradients and Batch Normalization](https://github.com/Matjaz12/Neural-Networks-Zero-to-Hero/blob/main/activations_gradients_batchnorm.ipynb)
 
 ## References
 
